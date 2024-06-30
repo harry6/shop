@@ -1,1 +1,6 @@
+
 Changed  b.txt in branch feature
+
+3rd branch BBB to change b.txt !!! after feature branch. so need merge
+
+solved!!
